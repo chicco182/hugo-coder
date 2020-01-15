@@ -27,7 +27,6 @@ disqusShortname = "yourdiscussshortname"
 
     hideCredits = false
     hideCopyright = false
-    since = 2019
 
     # Git Commit in Footer, uncomment the line below to enable it.
     commit = "https://github.com/luizdepra/hugo-coder/tree/"
@@ -80,13 +79,6 @@ disqusShortname = "yourdiscussshortname"
     icon = "fab fa-medium"
     weight = 5
     url = "https://medium.com/@johndoe"
-[[params.social]]
-    name = "RSS"
-    icon = "fas fa-rss"
-    weight = 6
-    url = "https://myhugosite.com/index.xml"
-    rel = "alternate"
-    type = "application/rss+xml"
 
 
 [languages]
